@@ -10,10 +10,10 @@ class Bio extends SoftwareDeveloper {
   location = "Ayodhya, UttarPradesh, India";
 }
 class Skills extends SoftwareDeveloper {
-  Languages = ["C++", "Python", "JavaScript", "Dart", "SQL"];
+  Programming Languages = ["C++", "Python", "JavaScript", "Dart", "SQL"];
   Frameworks = ["Flutter", "NodeJs", "ReactJS", "ExpressJs", "Restful APIs", "Apache Hadoop"]
   Databases = ["MongoDB", "MySQL", "Firebase"];
-  Tools = ["Git", "GitHub", "Linux", "Visual Studio Code", "Android Studio", "Jupyter Notebook"];
+  Tools = ["Git", "GitHub", "Linux", "Postman API", "Android Studio", "Docker"];
 }
 ```
 
@@ -23,6 +23,10 @@ class Skills extends SoftwareDeveloper {
     <img src="https://img.shields.io/github/followers/anubhav-0910?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 </br>
+
+<details open>
+  
+<summary>More Details about me..</summary>
 
 - 🌱 I’m currently pre-final year student at IIIT Dharwad ...
 - 👀 I’m interested in coding and exploring new emerging technologies ...
@@ -41,3 +45,4 @@ class Skills extends SoftwareDeveloper {
    </br></br></br>
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=anubhav-0910&theme=tokyonight&border_radius=6.5)](https://git.io/streak-stats)
+  </details>
