@@ -25,13 +25,12 @@ class Skills extends SoftwareDeveloper {
 </br>
 
 <details open>
-  
-<summary>More Details about me..</summary>
+<summary><strong style="font-size: 5em;">More Details about me..</strong></summary>
 
-- 🌱 I’m currently pre-final year student at IIIT Dharwad ...
+- 🌱 I’m currently a pre-final year student at IIIT Dharwad ...
 - 👀 I’m interested in coding and exploring new emerging technologies ...
 
-- :mailbox:Let's Connect : [![Linkedin Badge](https://img.shields.io/badge/-Anubhav-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anubhavgupta0910/) [![Gmail Badge](https://img.shields.io/badge/-anubhavg0910@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:anubhavg0910@gmail.com)
+- :mailbox: Let's Connect : [![Linkedin Badge](https://img.shields.io/badge/-Anubhav-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anubhavgupta0910/) [![Gmail Badge](https://img.shields.io/badge/-anubhavg0910@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:anubhavg0910@gmail.com)
 <br><br><br>
 
    <h2> 🔥 Github Stats:</h2>
@@ -45,4 +44,4 @@ class Skills extends SoftwareDeveloper {
    </br></br></br>
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=anubhav-0910&theme=tokyonight&border_radius=6.5)](https://git.io/streak-stats)
-  </details>
+</details>
