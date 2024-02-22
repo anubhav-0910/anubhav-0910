@@ -24,7 +24,7 @@ class Skills extends SoftwareDeveloper {
 </p>
 </br>
 
-<details open>
+<details close>
 <summary><strong style="font-size: 5em;">More Details about me..</strong></summary>
 
 - 🌱 I’m currently a pre-final year student at IIIT Dharwad ...
