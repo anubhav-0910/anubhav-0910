@@ -4,12 +4,14 @@
 
 ```js
 import SoftwareDeveloper from "India";
+
 class Bio extends SoftwareDeveloper {
   name = "Anubhav Gupta";
   title = "Software Engineer";
   location = "Bengaluru, Karnataka, India";
   focus = "Agentic AI & Backend Systems"
 }
+
 class Skills extends SoftwareDeveloper {
   Languages = [ "Python", "C/C++", "TypeScript", "JavaScript", "SQL" ];
   Backend = [ "FastAPI", "FastMCP", "Node.js", "Express.js", "REST APIs", "GraphQL" ];
