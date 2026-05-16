@@ -13,8 +13,8 @@ class Bio extends SoftwareDeveloper {
 class Skills extends SoftwareDeveloper {
   Languages = [ "Python", "C/C++", "TypeScript", "JavaScript", "SQL" ];
   Backend = [ "FastAPI", "FastMCP", "Node.js", "Express.js", "REST APIs", "GraphQL" ];
-  AI = [ "LLMs", "Multi-Agent Systems", "LangChain", "LangGraph", "RAG", "Context Engineering", "MCP", "A2A Protocol" ];
-  Databases_and_Search = [ "PostgreSQL", "MySQL", "MongoDB", "Oracle Database 23ai", "FAISS" ];
+  AI = [ "LLMs", "Multi-Agent Systems", "LangChain", "LangGraph", "RAG", "MCP", "A2A Protocol", "Context Engineering"" ];
+  Databases_and_Search = [ "PostgreSQL", "MySQL", "MongoDB", "Oracle Database 26ai", "FAISS" ];
   Dev_Tools = [ "Docker", "Kubernetes", "Git", "GitHub Actions", "Linux", "Postman" ];
 }
 ```
