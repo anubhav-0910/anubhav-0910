@@ -60,7 +60,7 @@ class Skills extends SoftwareDeveloper {
     <img src="https://img.shields.io/badge/Gmail-anubhavg0910%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
-  <a href="https://anubhavg.netlify.app/">
+  <a href="https://anubhavg.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-111111?style=for-the-badge&logo=netlify&logoColor=00C7B7" />
   </a>
 </p>
