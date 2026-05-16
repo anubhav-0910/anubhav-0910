@@ -7,13 +7,15 @@ import SoftwareDeveloper from "India";
 class Bio extends SoftwareDeveloper {
   name = "Anubhav Gupta";
   title = "Software Engineer";
-  location = "Ayodhya, UttarPradesh, India";
+  location = "Bengaluru, Karnataka, India";
+  focus = "Agentic AI & Backend Systems"
 }
 class Skills extends SoftwareDeveloper {
-  Programming = ["C++", "Python", "JavaScript", "SQL"];
-  Frameworks = ["Flutter", "NodeJs", "ExpressJs"]
-  Databases = ["PostgreSQL", "MySQL", "MongoDB"];
-  Tools = ["Docker", "Git", "Linux", "Postman"];
+  Languages = [ "Python", "C/C++", "TypeScript", "JavaScript", "SQL" ];
+  Backend = [ "FastAPI", "FastMCP", "Node.js", "Express.js", "REST APIs", "GraphQL" ];
+  AI = [ "LLMs", "Multi-Agent Systems", "LangChain", "LangGraph", "RAG", "Context Engineering", "MCP", "A2A Protocol" ];
+  Databases_and_Search = [ "PostgreSQL", "MySQL", "MongoDB", "Oracle Database 23ai", "FAISS" ];
+  Dev_Tools = [ "Docker", "Kubernetes", "Git", "GitHub Actions", "Linux", "Postman" ];
 }
 ```
 
@@ -25,23 +27,46 @@ class Skills extends SoftwareDeveloper {
 </br>
 
 <details close>
-<summary><strong style="font-size: 5em;">More Details about me..</strong></summary>
+<summary><strong style="font-size: 5em;">More Details about me...</strong></summary>
 
-- 🌱 I’m currently a Final year student at IIIT Dharwad ...
-- 👀 I’m interested in coding and exploring new emerging technologies ...
+### 🚀 What I Build
+- **Agentic AI** systems - multi‑agent pipelines using MCP & A2A protocols
+- **Production RAG** + AI Vector Search with LLMs
+- **FastAPI** & **FastMCP** backend - async, scalable, enterprise‑grade Python services
 
-- :mailbox: Let's Connect : [![Linkedin Badge](https://img.shields.io/badge/-Anubhav-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anubhavgupta0910/) [![Gmail Badge](https://img.shields.io/badge/-anubhavg0910@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:anubhavg0910@gmail.com)
-<br><br><br>
+### 🏆 Highlights
+- LeetCode **Knight**
+- Amazon ML Summer School ‘23
 
-   <h2> 🔥 Github Stats:</h2>
-<p align="center">
-<img src="https://i.imgur.com/YCw47Dm.gif">
+### 📜 Certifications
+- OCI Certified Generative AI Professional
+- Oracle Database 23ai
+- Oracle Foundations Associate
+- Oracle Fusion AI Agent Studio
+- Postman API Student Expert
+- Supervised Machine Learning: Regression & Classification
 
-   <div>
-   <img width="52.7%"  src="https://github-readme-stats.vercel.app/api?username=anubhav-0910&show_icons=true&theme=radical" />
-   <img width="40%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhav-0910&layout=compact&theme=radical" />
-   </div>
-   </br></br></br>
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=anubhav-0910&theme=tokyonight&border_radius=6.5)](https://git.io/streak-stats)
-</details>
+<div align="center">
+
+# 📬 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/anubhavgupta0910/">
+    <img src="https://img.shields.io/badge/LinkedIn-Anubhav%20Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="mailto:anubhavg0910@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-anubhavg0910%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  <a href="https://anubhavg.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-111111?style=for-the-badge&logo=netlify&logoColor=00C7B7" />
+  </a>
+</p>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+
+</div>
