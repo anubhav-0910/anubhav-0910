@@ -14,7 +14,7 @@ class Skills extends SoftwareDeveloper {
   Languages = [ "Python", "C/C++", "TypeScript", "JavaScript", "SQL" ];
   Backend = [ "FastAPI", "Node.js", "Express.js", "REST APIs", "GraphQL" ];
   AI = [ "LLMs", "Multi-Agent Systems", "LangChain", "LangGraph", "RAG", "MCP", "A2A Protocol", "Context Engineering" ];
-  Databases_and_Search = [ "PostgreSQL", "MySQL", "MongoDB", "Oracle Database 26ai", "FAISS" ];
+  Databases_and_Search = [ "PostgreSQL", "MySQL", "MongoDB", "Oracle Database 26ai", "FAISS", "OpenSearch" ];
   Dev_Tools = [ "Docker", "Kubernetes", "Git", "GitHub Actions", "Linux", "Postman" ];
 }
 ```
